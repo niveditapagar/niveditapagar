@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @niveditapagar
-- I work as a Software Engineer in axxessio GmbH
+- I've been working as a Software Engineer since 2 years
 - I mainly work with Python and rasa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nivedita.pagar@outlook.com
+- 📫 Reach me via email: nivedita.pagar@outlook.com
 
 <!---
 niveditapagar/niveditapagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
