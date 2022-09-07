@@ -1,7 +1,7 @@
 <h3>About me</h3>
 
 - 👋 Hi, I’m [Nivedita Pagar](www.linkedin.com/in/nivedita-pagar)
-- I've been working as a Software Engineer since 2+ years
+- I've been working as a Software Engineer since 2.5+ years
 - Using Python and Rasa, I specialize in skill development and creating scalable voice-based conversational AI solutions for multi-national customers
 - I also work with REST APIs, Postman, Git and Scrum
 
